@@ -6,8 +6,8 @@ int count = 0;
 
 while (count < number)
 {
-    count+=2;
     Console.Write(count+" ");
+    count+=2;
 }
 
 

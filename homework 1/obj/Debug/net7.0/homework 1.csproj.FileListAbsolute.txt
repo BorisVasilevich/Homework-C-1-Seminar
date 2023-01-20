@@ -1,0 +1,15 @@
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\bin\Debug\net7.0\homework 1.exe
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\bin\Debug\net7.0\homework 1.deps.json
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\bin\Debug\net7.0\homework 1.runtimeconfig.json
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\bin\Debug\net7.0\homework 1.dll
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\bin\Debug\net7.0\homework 1.pdb
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\obj\Debug\net7.0\homework 1.csproj.AssemblyReference.cache
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\obj\Debug\net7.0\homework 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\obj\Debug\net7.0\homework 1.AssemblyInfoInputs.cache
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\obj\Debug\net7.0\homework 1.AssemblyInfo.cs
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\obj\Debug\net7.0\homework 1.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\obj\Debug\net7.0\homework 1.dll
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\obj\Debug\net7.0\refint\homework 1.dll
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\obj\Debug\net7.0\homework 1.pdb
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\obj\Debug\net7.0\homework 1.genruntimeconfig.cache
+E:\GeekBrains\Язык С#\ДЗ 1 С#\homework 1\obj\Debug\net7.0\ref\homework 1.dll
