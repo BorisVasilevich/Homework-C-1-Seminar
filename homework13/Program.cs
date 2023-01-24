@@ -19,6 +19,10 @@ while (number > 1000)
 }
 }
 Console.WriteLine("Третья цифра числа является " + number % 10);
+
+
+
+
 //else
 //{
   //  System.Console.WriteLine("Третья цифра числа является " + number % 10);

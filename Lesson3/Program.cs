@@ -156,5 +156,79 @@ Console.Write(", " + count * count);
 count++;
 }
 
+int number = 12521;
+int drink = 10000;
+int digit = 10;
+
+
+int a = number / drink;
+Console.WriteLine("First: " + a);
+
+int b = number % digit;
+Console.WriteLine("Poslednay: " + b);
+
+//if (number / drink == number % digit)  
+
+int c = ((number * 10/drink ) %10);
+Console.WriteLine("Second: " + c);
+
+int d = ((number % (digit * 10)) / 10);
+Console.WriteLine("Forth: " + d);
+
+
+
+
+//else if (((number /drink * 10) %10) == ((number % digit * 10) / 10))
+
+
+
+
+
+
+string text = (" - Правительство РФ продлевает отсрочку по уплате страховых  культуры и туризма, уже воспользовавшихся отсрочкой ранее.");
+
+string Replace (string text, char old value, char new value);
+{
+    string result = string.Empty;
+    int length = text.Length;
+    for (int i = 0, i < length, i++)
+    {
+    if (text [i] == old value, result = result + $"{new value}");
+    else result + $"{str[i]}";
+    }
+    return result;
+}
+string new text = Replace (text,"т", "Т");
+Console.WriteLine(new text);
+
+
+
+Evgenii Kolokoltsev  кому  Все 20:16
+int[] array = new int[8];
+void FillArray(int[] array)
+    {
+    Console.WriteLine($"Формируем массив из {array.Length} элементов");
+    for (int i = 0; i < array.Length; i++)
+    {
+    array[i] = new Random().Next(0, 2);
+    }
+    return;
+    }
+
+void PrintArray(int[] array)
+    {
+    int i = 0;
+    Console.Write($"Итоговый массив: [ {array[i]}");
+    for (i = 1; i < array.Length; i++)
+    {
+    Console.Write($", {array[i]}");
+    }
+    Console.Write(" ]");
+    return;
+    }
+
+FillArray(array);
+PrintArray(array);
+
 
 
