@@ -203,7 +203,7 @@ Console.WriteLine(new text);
 
 
 
-Evgenii Kolokoltsev  кому  Все 20:16
+//Evgenii Kolokoltsev  кому  Все 20:16
 int[] array = new int[8];
 void FillArray(int[] array)
     {

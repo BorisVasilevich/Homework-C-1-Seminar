@@ -35,7 +35,6 @@ raisearray(array);
 PrintArray(array);
 
 
-
 int HonestNum(int [] array)
 {
     int count = 0;
@@ -48,6 +47,7 @@ int HonestNum(int [] array)
     }
 return count;
 }
+
 
 Console.Write($"Сумма элементов, стоящих на нечётных позициях по индексу {HonestNum(array)}");
 
